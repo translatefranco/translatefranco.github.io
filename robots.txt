@@ -1,0 +1,9 @@
+# Robots.txt for https://translatefranco.github.io/
+User-agent: *
+Allow: /
+
+# Sitemap Location
+Sitemap: https://translatefranco.github.io/sitemap.xml
+
+# Crawl-delay for optimal indexing
+Crawl-delay: 1
